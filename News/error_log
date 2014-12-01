@@ -1,0 +1,16 @@
+[07-Oct-2014 14:11:40 America/Chicago] PHP Warning:  mysqli_query($con, ): Access denied for user 'atieh'@'localhost' (using password: NO) in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:11:40 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:11:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 13
+[07-Oct-2014 14:11:40 America/Chicago] PHP Warning:  mysqli_close($con): no MySQL-Link resource supplied in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 45
+[07-Oct-2014 14:14:26 America/Chicago] PHP Warning:  mysqli_query($con, ): Access denied for user 'atieh'@'localhost' (using password: NO) in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:14:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:14:26 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 13
+[07-Oct-2014 14:14:26 America/Chicago] PHP Warning:  mysqli_close($con): no MySQL-Link resource supplied in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 45
+[07-Oct-2014 14:16:24 America/Chicago] PHP Warning:  mysqli_query($con, ): Access denied for user 'atieh'@'localhost' (using password: NO) in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:16:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[07-Oct-2014 14:16:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 13
+[07-Oct-2014 14:16:24 America/Chicago] PHP Warning:  mysqli_close($con): no MySQL-Link resource supplied in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 45
+[08-Oct-2014 19:11:06 America/Chicago] PHP Warning:  mysqli_query($con, ): Access denied for user 'atieh'@'localhost' (using password: NO) in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[08-Oct-2014 19:11:06 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 10
+[08-Oct-2014 19:11:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 13
+[08-Oct-2014 19:11:06 America/Chicago] PHP Warning:  mysqli_close($con): no MySQL-Link resource supplied in /home3/atieh/public_html/portfolio/debate-local/News/getNews.php on line 45
