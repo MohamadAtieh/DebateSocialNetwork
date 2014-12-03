@@ -1,7 +1,7 @@
 Debate
 ======
 
-[Demo](http://http://m-atieh.com/portfolio/debate-local). Username(atieh), password(12345).
+[Demo](http://m-atieh.com/portfolio/debate-local). Username(atieh), password(12345).
 
 Please respect that this is for demo only, the project is not well developed.
 
